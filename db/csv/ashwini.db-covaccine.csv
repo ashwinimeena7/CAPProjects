@@ -1,0 +1,6 @@
+country,date,total_vaccinations,fully_vaccinated,daily_vaccination,vaccines
+India,1/29/2021,0,1,1,Covishield
+India,1/30/2021,20,2,2,Covishield
+India,1/31/2021,30,3,3,Covishield
+India,2/1/2021,40,4,4,Covishield
+India,2/2/2021,50,5,5,Covishield

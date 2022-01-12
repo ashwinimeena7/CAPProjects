@@ -1,0 +1,16 @@
+{
+  "files.exclude": {
+    "**/.gitignore": true,
+    "**/.git": true,
+    "**/.vscode": true
+},
+"sqltools.connections": [
+    {
+        "dialect": "SQLite",
+        "name": "MyDBAccess",
+        "database": "sqlite.db",
+        "isActive": true,
+        "isConnected": true
+    }
+]
+}

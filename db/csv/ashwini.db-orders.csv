@@ -1,0 +1,5 @@
+orderId,customername,contactperson,grossamount,currency
+1,Customer1,Person1,100.2045,INR
+2,Customer2,Person2,200.204,INR
+3,Customer3,Person3,300.2045,INR
+4,Customer4,Person4,400.6773,INR

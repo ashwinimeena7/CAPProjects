@@ -1,0 +1,7 @@
+GET http://localhost:4004/sap/opu/odata/sap/API_SALES_ORDERS/Orders?$top=2&$filter=grossamount le 200
+
+###
+POST http://localhost:4004/sap/opu/odata/sap/API_SALES_ORDERS/Orders
+Content-Type: application/json
+
+{"orderId":10,"customername": "Ash","contactperson": "person10","grossamount": 150.2,"currency": "INR"}
